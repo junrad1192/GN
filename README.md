@@ -26,9 +26,9 @@
 メールアドレス→test2@test.com
 パスワード→password
 
-##　環境
+## 環境
 
-M   XAMPP/MySQL/PHP
+XAMPP/MySQL/PHP
 
 ## データベース
 
